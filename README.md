@@ -15,8 +15,8 @@ Follow the steps below to install dependencies and run the chatbot.
 ### Installation
 1. Clone the repository:  
    `git clone https://github.com/n33lp/ChatBot`
-   
-   `cd ai-chatbot`
+2. Navigate into it
+   `cd ChatBot`
 
 3. Install dependencies:  
    Run the following command to install all necessary dependencies:  
